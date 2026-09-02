@@ -28,6 +28,6 @@
 потеряны все руки;
 необходимая квота не набрана.
 
-[![Gameplay](https://img.youtube.com/vi/ADzxZHOK_u0/maxresdefault.jpg)](https://youtu.be/ADzxZHOK_u0)
+<video src="2026-08-19 13-45-46-1.mp4" controls width="100%"></video>
 
 
