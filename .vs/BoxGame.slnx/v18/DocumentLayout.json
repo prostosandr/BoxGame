@@ -1,0 +1,333 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityGames\\BoxGame\\BoxGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unitygames\\boxgame\\boxgame\\assets\\scripts\\boxspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boxspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unitygames\\boxgame\\boxgame\\assets\\scripts\\tablebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tablebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unitygames\\boxgame\\boxgame\\assets\\scripts\\roundscyclemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\roundscyclemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unitygames\\boxgame\\boxgame\\assets\\scripts\\iinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iinteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unitygames\\boxgame\\boxgame\\assets\\scripts\\handmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\handmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unitygames\\boxgame\\boxgame\\assets\\scripts\\interactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unitygames\\boxgame\\boxgame\\assets\\scripts\\box\\boxeffectplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\box\\boxeffectplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unitygames\\boxgame\\boxgame\\assets\\scripts\\box\\boxcontentprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\box\\boxcontentprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unitygames\\boxgame\\boxgame\\assets\\scripts\\box\\empty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\box\\empty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unitygames\\boxgame\\boxgame\\assets\\scripts\\box\\reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\box\\reward.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unitygames\\boxgame\\boxgame\\assets\\scripts\\box\\trap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\box\\trap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unitygames\\boxgame\\boxgame\\assets\\scripts\\box\\boxcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\box\\boxcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unitygames\\boxgame\\boxgame\\assets\\scripts\\box\\traptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\box\\traptype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unitygames\\boxgame\\boxgame\\assets\\scripts\\box\\boxcontenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\box\\boxcontenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unitygames\\boxgame\\boxgame\\assets\\scripts\\sounddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sounddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unitygames\\boxgame\\boxgame\\assets\\scripts\\box\\boxaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\box\\boxaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unitygames\\boxgame\\boxgame\\assets\\scripts\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\Box\\Box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Box\\Box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\Box\\Box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Box\\Box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SoundData.cs",
+              "DocumentMoniker": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\SoundData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SoundData.cs",
+              "ToolTip": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\SoundData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SoundData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:42:29.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AudioPlayer.cs",
+              "DocumentMoniker": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\AudioPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioPlayer.cs",
+              "ToolTip": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\AudioPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:42:23.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HandMover.cs",
+              "DocumentMoniker": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\HandMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HandMover.cs",
+              "ToolTip": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\HandMover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HandMover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:36:37.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Interactor.cs",
+              "DocumentMoniker": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\Interactor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Interactor.cs",
+              "ToolTip": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\Interactor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Interactor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:36:21.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BoxEffectPlayer.cs",
+              "DocumentMoniker": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\Box\\BoxEffectPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Box\\BoxEffectPlayer.cs",
+              "ToolTip": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\Box\\BoxEffectPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Box\\BoxEffectPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T16:25:52.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TrapType.cs",
+              "DocumentMoniker": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\Box\\TrapType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Box\\TrapType.cs",
+              "ToolTip": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\Box\\TrapType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Box\\TrapType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T14:29:58.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BoxContentType.cs",
+              "DocumentMoniker": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\Box\\BoxContentType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Box\\BoxContentType.cs",
+              "ToolTip": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\Box\\BoxContentType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Box\\BoxContentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T14:06:05.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BoxContent.cs",
+              "DocumentMoniker": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\Box\\BoxContent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Box\\BoxContent.cs",
+              "ToolTip": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\Box\\BoxContent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Box\\BoxContent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T14:06:03.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BoxContentProvider.cs",
+              "DocumentMoniker": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\Box\\BoxContentProvider.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Box\\BoxContentProvider.cs",
+              "ToolTip": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\Box\\BoxContentProvider.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Box\\BoxContentProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T07:07:14.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BoxSpawner.cs",
+              "DocumentMoniker": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\BoxSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BoxSpawner.cs",
+              "ToolTip": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\BoxSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BoxSpawner.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T07:07:47.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BoxAudio.cs",
+              "DocumentMoniker": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\Box\\BoxAudio.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Box\\BoxAudio.cs",
+              "ToolTip": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\Box\\BoxAudio.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Box\\BoxAudio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T14:06:00.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Box.cs",
+              "DocumentMoniker": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\Box\\Box.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Box\\Box.cs",
+              "ToolTip": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\Box\\Box.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Box\\Box.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T06:48:23.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TableButton.cs",
+              "DocumentMoniker": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\TableButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TableButton.cs",
+              "ToolTip": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\TableButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TableButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T17:34:14.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Box.cs",
+              "DocumentMoniker": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\Box\\Box.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Box\\Box.cs",
+              "ToolTip": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\Box\\Box.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Box\\Box.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAqwDIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T17:14:04.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IInteract.cs",
+              "DocumentMoniker": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\IInteract.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IInteract.cs",
+              "ToolTip": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\IInteract.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IInteract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T17:04:45.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Empty.cs",
+              "DocumentMoniker": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\Box\\Empty.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Box\\Empty.cs",
+              "ToolTip": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\Box\\Empty.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Box\\Empty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:47:16.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Trap.cs",
+              "DocumentMoniker": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\Box\\Trap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Box\\Trap.cs",
+              "ToolTip": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\Box\\Trap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Box\\Trap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:40:12.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Reward.cs",
+              "DocumentMoniker": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\Box\\Reward.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Box\\Reward.cs",
+              "ToolTip": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\Box\\Reward.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Box\\Reward.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:39:33.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoundsCycleManager.cs",
+              "DocumentMoniker": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\RoundsCycleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RoundsCycleManager.cs",
+              "ToolTip": "D:\\UnityGames\\BoxGame\\BoxGame\\Assets\\Scripts\\RoundsCycleManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RoundsCycleManager.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwHAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T15:13:52.062Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

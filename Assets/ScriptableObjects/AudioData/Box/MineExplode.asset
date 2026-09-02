@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b01ec94554965e145a5929eb0ca6b73c, type: 3}
+  m_Name: MineExplode
+  m_EditorClassIdentifier: Assembly-CSharp::SoundData
+  _clip: {fileID: 8300000, guid: 93253ca7afa12fb45b7e57b3dac3a1d9, type: 3}
+  _volume: 1
+  _minPitch: 0.8
+  _maxPitch: 1
